@@ -1,0 +1,5 @@
+clear - cls
+mkdir _name_ - to make a new directory
+rmdir _name_ - to delete a directory
+dir - show list of directories
+cd _name_ - goto this directory
